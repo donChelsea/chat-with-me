@@ -19,7 +19,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/bg_recieve_message"
+            android:background="@drawable/bg_send_message"
             android:maxWidth="250dp"
             android:padding="16dp"
             android:text="@{message.text}"
